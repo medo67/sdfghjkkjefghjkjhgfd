@@ -819,7 +819,4 @@ message.channel.stopTyping()
 })
 }
 });
-client.login(process.env.BOT_TOKEN);//لاتعدل فيه شي ياقلبي
-
-
-//جميع الحقوق تعود ل Fras#9999 وشكرا
+client.login(process.env.BOT_TOKEN);
