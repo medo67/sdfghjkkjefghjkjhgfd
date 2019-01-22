@@ -1,1 +1,1 @@
-node: bot.js probot by fras !
+worker: node bot.js
